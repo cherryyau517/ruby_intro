@@ -7,3 +7,6 @@
 # Accessing data from the hash
 
 # More Complex Hashes
+
+profile [:profession] = "Software Dev"
+puts profile
